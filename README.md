@@ -9,7 +9,7 @@ Some of the challenges we face with our OCR is character overlapping, some chara
 
 
 ### Solution 
-Using state of the art Computer Vision algoritms to detect characters and recognize them, by developing our own algorithms that fit the Arabic text properly. We follow the basic OCR flow to maintain a good accuracy. Check out the image below.
+Using state of the art Computer Vision algoritms to detect characters and recognize them, by developing our own algorithms that fit the Arabic text properly. We follow the basic OCR flow to maintain a good accuracy. Check out the image below
 
 <br>
 <img src="diagram/pipeline.PNG" width="650" height="200" />
